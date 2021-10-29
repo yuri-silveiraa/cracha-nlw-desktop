@@ -27,8 +27,7 @@ main {
   position: absolute;
   width: 64px;
   height: 158px;
-  left: 688px;
-  top: 0px;
+  margin-left: 688px;
   z-index: 2;
   background: linear-gradient(161.24deg, #ff008e -15.25%, #ffcd1e 111.89%);
 }
@@ -36,8 +35,8 @@ main {
   position: absolute;
   width: 80px;
   height: 8px;
-  left: 680px;
-  top: 156px;
+  margin-left: 680px;
+  margin-top: 156px;
   background: #121214;
   z-index: 1;
 }
